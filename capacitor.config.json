@@ -1,0 +1,6 @@
+{
+	"appId": "com.example.app",
+	"appName": "robotcontroller",
+	"webDir": "assets",
+	"bundledWebRuntime": true
+}
